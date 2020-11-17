@@ -1,7 +1,7 @@
 # docker-symfony-php
 Docker image for PHP optimized for Symfony 5.
 
-Based on PHP 7.4 with `symfony` CLI tool preinstalled.
+Based on PHP 7.3 or 7.4 with `symfony` CLI tool preinstalled.
 
 This image is hosted on hub.docker.com : https://hub.docker.com/repository/docker/kgaut/symfony-php
 

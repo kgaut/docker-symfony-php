@@ -1,4 +1,4 @@
-FROM wodby/php:7.4
+FROM wodby/php:7.3
 USER root
 RUN  wget https://get.symfony.com/cli/installer -O - | bash
 RUN mv /root/.symfony/bin/symfony /usr/local/bin/symfony
